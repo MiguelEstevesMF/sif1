@@ -1,8 +1,6 @@
-sif1
+Sistema de Informação de Fórmula 1 - sif1
 ====
-
 Information System of Formula 1
-Sistema de Informação de Fórmula 1
 
 SIF1 is an academic project developed in 2009 at University of Minho, PT.
 This software program is a Java web application (J2EE and deployable in JBoss) that manages an information system for Formula One races.
